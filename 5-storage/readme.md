@@ -49,6 +49,8 @@ Object Storage has been around and is really the industry standard for long term
 
 You pick a region and then you can start creating buckets to put files 
 
+5 Terabytes of data per Object with unlimited 
+
 #### Storage Classes 
 
 S3 Standard 
